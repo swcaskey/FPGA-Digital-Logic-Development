@@ -30,4 +30,4 @@ Circuit photos, waveform screenshots, and lab notes:
 - [Traffic Signal State Machine](https://drive.google.com/drive/folders/1G8MRgur5YV49ZL5u6zJo3qWZNcEfOXZ2?usp=sharing)
 
 ## Author
-Created by **Seth Caskey** — Rutgers University, 2024.
+Created by **Seth Caskey** — 2024.
