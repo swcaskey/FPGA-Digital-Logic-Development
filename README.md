@@ -4,7 +4,7 @@ This repository documents a series of digital logic projects demonstrating combi
 
 ## Overview
 - Completed as part of the Digital Logic Design Laboratory at Rutgers University.
-- Implemented and verified digital subsystems on FPGA hardware.
+- Implemented and verified digital subsystems on hardware.
 
 ## Circuits Implemented
 - SR Latch and D Flip-Flop  
