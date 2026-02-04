@@ -1,6 +1,6 @@
 # FPGA Digital Logic Development
 
-This repository documents a series of FPGA projects demonstrating combinational and sequential circuit design using Verilog.
+This repository documents a series of digital logic projects demonstrating combinational and sequential circuit design using Verilog.
 
 ## Overview
 - Completed as part of the Digital Logic Design Laboratory at Rutgers University.
@@ -14,12 +14,11 @@ This repository documents a series of FPGA projects demonstrating combinational 
 
 ## Tools and Hardware
 - Xilinx Vivado for simulation and synthesis  
-- Nexys A7 FPGA development board  
 - 74LS-series ICs for discrete hardware verification
 
 ## Results
 - Synthesized Verilog designs and validated logic timing.
-- Observed accurate functional behavior on FPGA with LED output mapping.
+- Observed accurate functional behavior.
 
 ## Documentation
 Circuit photos, waveform screenshots, and lab notes:  
